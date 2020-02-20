@@ -10,7 +10,7 @@
       searches the array of mates for "matching" mate. You will decide what way you want to write your search algorithm.
 */
 
-<<<<<<< HEAD
+
 var classMates = [{
   Name: "ali",
   Age: "25",          
@@ -65,7 +65,7 @@ function makeClassList(classMates) {
     }
     }
 }
-=======
+
 function myClassMates(name, hair, gender, age, glasses) {
   return {
     name: name,
@@ -136,4 +136,4 @@ function searchMates(query, array) {
 }
 
 // I didn't verify the functions in the console because of the time so I think there exist plenty mistakes :'( especially the last one
->>>>>>> 2b098376bbe5f40b97b1dad225ca4eb6a867d63d
+
