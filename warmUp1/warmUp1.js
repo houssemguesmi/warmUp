@@ -3,7 +3,6 @@
 // 3-calculate the average age of the follwing ages [13,14,13,15,16,17,19,13,16,15]
 // 4-calculate your age in seconds.
 
-<<<<<<< HEAD
 
 // your code is here
 function combine(firstName,lastName){
@@ -48,21 +47,18 @@ function ageInSec(age,dayOfBirth,monthOfBirth,yearOfBirth){
        return days+yearsindays+monthsindays;
 }
 //ageInSec(19) ==> 599184000
-=======
-// your code is here
-<<<<<<< HEAD
 
-<<<<<<< HEAD
+// your code is here
+
+
+
 //1
 function name(firstName, lastName) {
 	return firstName + ' ' + lastName;
 }
 //'Siwar'+' Hkimi';
 
-<<<<<<< HEAD
->>>>>>> 324f201c02ca2d6c79684a8829696dd310627957
-=======
-//2
+
 function multipleOrNot(x, y) {
 	if (x % y === 0) {
 		return x + " is a multiple of " + y + ".";
@@ -105,9 +101,3 @@ function average(arr) {
 // 
 // }
 //age=26*365*24*60
-=======
-
->>>>>>> c07720253c870302a2825e47eeb180a082689769
->>>>>>> 2b098376bbe5f40b97b1dad225ca4eb6a867d63d
-=======
->>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6
